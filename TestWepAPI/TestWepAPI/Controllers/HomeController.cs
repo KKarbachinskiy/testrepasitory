@@ -12,5 +12,9 @@ namespace TestWepAPI.Controllers
         {
             return View();
         }
+        public string ChrisFunc()
+        {
+            return "Chris is awesome!";
+        }
     }
 }
