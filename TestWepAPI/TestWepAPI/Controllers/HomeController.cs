@@ -12,5 +12,12 @@ namespace TestWepAPI.Controllers
         {
             return View();
         }
+
+        public ActionResult AboutFrank()
+        {
+            return View();
+        }
+
+
     }
 }
