@@ -16,5 +16,9 @@ namespace TestWepAPI.Controllers
         {
             return "Chris is awesome!";
         }
+		public ActionResult AboutFrank()
+        {
+            return View();
+        }
     }
 }
